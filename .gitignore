@@ -1,0 +1,9 @@
+/build/
+/dist/
+/nbproject/private/
+.gradle/
+/target/
+.classpath
+.project
+.settings/
+*.log
